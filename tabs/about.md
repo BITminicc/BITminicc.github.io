@@ -34,9 +34,6 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+
 &emsp;Hello! It's too hard to write the front end！
-{{ website_info_text_second }}
 There are still many bugs that haven't been solved. What a mess！！
