@@ -7,7 +7,7 @@ lng_pair: id_about
 img: ":about.jpg"
 # publish date (used for seo)
 # if not specified, site.time will be used.
-#date: 2022-03-03 12:32:00 +0000
+#date: 2022-11-03 12:32:00 +0000
 
 # for override items in _data/lang/[language].yml
 #title: My title
@@ -38,5 +38,6 @@ img: ":about.jpg"
 
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
-
+&emsp;Hello! It's too hard to write the front end！
 {{ website_info_text_second }}
+There are still many bugs that haven't been solved. What a mess！！
