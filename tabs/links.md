@@ -74,7 +74,7 @@ page_data:
     - type: id_RL
       title: "Class from DeepMind"
       url: "https://www.bilibili.com/video/BV1h54y1B7nH/?from=search&seid=14138284187456381757"
-      info: "DeepMind class for MARL in 2020"
+      info: "DeepMind class for MARL in 2020."
     - type: id_RL
       title: "OpenAI-GYM"
       url: "https://github.com/openai/gym"
@@ -82,9 +82,9 @@ page_data:
 
     # webdesign
     - type: id_webdesign
-      title: element ui"
+      title: element ui
       url: "https://element.eleme.cn/#/zh-CN"
-      info: "A set of desktop component library based on Vue 2.0 for developers, designers and product managers"
+      info: "A set of desktop component library based on Vue 2.0 for developers, designers and product managers."
     - type: id_webdesign
       title: "W3Schools"
       url: "https://www.w3schools.com/"
