@@ -40,12 +40,12 @@ lng_pair: id_links
 page_data:
   main:
     header: "Links"
-    info: "Your Links page description."
+    info: "It may have no direct relationship with me, but it is a more useful link."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
-      type: id_jekyiiliquid
+    - title: "RL Study"
+      type: id_RL
       color: "gray"
     - title: "Web Design"
       type: id_webdesign
@@ -58,33 +58,33 @@ page_data:
     -
     # programming
     - type: id_programming
-      title: "Stack OverFlow"
-      url: "https://stackoverflow.com/"
-      info: "Stack Overflow is a question and answer website for professional and enthusiastic programmers."
+      title: "github"
+      url: "https://github.com/"
+      info: "Github is the home for all developers — including me."
 
-    # jekyiiliquid
-    - type: id_jekyiiliquid
-      title: "Jekyll"
-      url: "https://jekyllrb.com/"
-      info: "Transform your plain text into static websites and blogs."
-    - type: id_jekyiiliquid
-      title: "Jekyll Cheat Sheet"
-      url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
-      info: "There are so many Jekyll variables and filters to remember and it can be tricky to keep it all in your head. This cheat sheet serves as a quick reference of everything Jekyll can do."
-    - type: id_jekyiiliquid
-      title: "Liquid for Designers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
-      info: "Liquid for Designers wiki on GitHub"
-    - type: id_jekyiiliquid
-      title: "Liquid for Programmers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
-      info: "Liquid for Programmers wiki on GitHub"
-    - type: id_jekyiiliquid
-      title: "Liquid Reference"
-      url: "https://shopify.dev/api/liquid/"
-      info: "Liquid is a template language created by Shopify and written in Ruby. It is now available as an open source project on GitHub"
+    # Reinforcement learning
+    - type: id_RL
+      title: "RLChina"
+      url: "https://space.bilibili.com/604515161/channel/series"
+      info: "Learn from experts."
+    - type: id_RL
+      title: "BIT-RL-Class"
+      url: "https://github.com/BITminicc/Experiment-Codes"
+      info: "Code for class in BIT."
+    - type: id_RL
+      title: "Class from DeepMind"
+      url: "https://www.bilibili.com/video/BV1h54y1B7nH/?from=search&seid=14138284187456381757"
+      info: "DeepMind class for MARL in 2020"
+    - type: id_RL
+      title: "OpenAI-GYM"
+      url: "https://github.com/openai/gym"
+      info: "Famous RL test/train environment."
 
     # webdesign
+    - type: id_webdesign
+      title: element ui"
+      url: "https://element.eleme.cn/#/zh-CN"
+      info: "A set of desktop component library based on Vue 2.0 for developers, designers and product managers"
     - type: id_webdesign
       title: "W3Schools"
       url: "https://www.w3schools.com/"
