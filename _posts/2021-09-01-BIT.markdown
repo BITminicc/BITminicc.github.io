@@ -16,11 +16,11 @@ tags: [jekyll, example post]
 comments_disable: true
 
 # publish date
-date: 2021-09-13 14:47:12 +0900
+date: 2021-09-01 10:10:00 +0800
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2021-09-13 14:47:12 +0900
+#meta_modify_date: 2021-09-01 10:10:00 +0800
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
