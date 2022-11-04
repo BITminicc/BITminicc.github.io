@@ -35,5 +35,4 @@ img: ":about.jpg"
 ---
 
 
-&emsp;Hello! It's too hard to write the front end！
-There are still many bugs that haven't been solved. What a mess！！
+&emsp;Hello! I'm HanCheng.Zhang from Beijing University of Technology. I am currently studying at LINC, a key laboratory of intelligent information technology in Beijing with many outstanding teachers. My research content includes reinforcement learning and visualization. In addition, I also have hobbies such as football, basketball, table tennis, Frisbee, etc. Welcome to exchange and learn together.
