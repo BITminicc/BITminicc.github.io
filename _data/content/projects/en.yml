@@ -8,7 +8,7 @@ page_data:
     info: "In progress."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":projects-heading.jpg"
+    img: ":project_heading.jpg"
     back_color: "lightblue"
 
   category:
@@ -188,8 +188,8 @@ page_data:
     - type: id_HEHE
       project_name: "Example Work"
       project_excerpt: "HEHE"
-      #img: ":project_HEHE.jpg"
-      #img_title: "HEHE"
+      img: ":project_HEHE.jpg"
+      img_title: "HEHE"
       date: "2020-09-01"
       post: |
         STILL WORKING！
